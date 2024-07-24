@@ -24,3 +24,11 @@ This bar plot presents the average daily page views for each month, grouped by y
 
 ![box_plot](box_plot.png)  
 This set of box plots shows the distribution of daily page views for each year and each month. The plot on the left compares the yearly distributions, while the plot on the right highlights the monthly distributions. It reveals that certain months, such as October, tend to be more popular, possibly due to events like Hacktoberfest.
+
+## Technologies Used
+
+-   **pandas**: For CSV processing and data analysis.
+-   **matplotlib** and **seaborn**: For data visualization.
+-   **unittest**: For running unit tests.
+
+Ensure that you run `pip install -r requirements.txt` before executing `python main.py`.
